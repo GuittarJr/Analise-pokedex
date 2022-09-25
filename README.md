@@ -18,8 +18,9 @@ Skills utilizadas:</br>
 <p>Nesse mundo habitado por estranhas criaturas chamadas de Pocket Monsters, ou simplesmente <strong>Pokémon</strong>, toda criança que completar 10 anos de idade, pode se tornar um Treinador de Pokémons e sair à procura desses bichinhos, capturando-os, treinando-os e fazendo-os lutar para ganhar experiência.</p>
   
  <p>
-  ###  - Pesquisa 01 - Quais são os 3 Primeiros Pokémons registrados ?
-    
+   
+   
+  ### Pesquisa 01 - Quais são os 3 Primeiros Pokémons registrados ?
     
   ### Quantidade máxima de Pokémons - Pesquisa 02
     
