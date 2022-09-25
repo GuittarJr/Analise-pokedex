@@ -22,7 +22,7 @@ Skills utilizadas:</br>
    
   ### Pesquisa 01 - Quais são os 3 Primeiros Pokémons registrados ?
     
-  ### Quantidade máxima de Pokémons - Pesquisa 02
+  ### Pesquisa 02 -  Quais são os 3 ultimos Pokémons registrados ?
     
   ### Quantos tem 2 tipagens - Pesquisa 03
     
