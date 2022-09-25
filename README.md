@@ -27,6 +27,10 @@ Skills utilizadas:</br>
           df.head(3)
     
   ### Pesquisa 02 -  Quais são os 3 ultimos Pokémons registrados ?
+      
+  <p> Para isso foi utilizado</p>
+        
+          df.tail(3)
     
   ### Quantos tem 2 tipagens - Pesquisa 03
     
