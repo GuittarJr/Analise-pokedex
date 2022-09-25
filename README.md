@@ -14,9 +14,13 @@ Skills utilizadas:</br>
   <img src="https://user-images.githubusercontent.com/19601448/192146002-8c41d03d-dd42-48f9-b5af-f478fe1d083a.png" alt ="Professor Oak">
   <div>
   
- <h2>Neste projeto estarei analisando:</h2> 
-    
-  ### Quantidade de Pokémons lendários - Pesquisa 01
+ 
+  <h2> Nesse mundo habitado por estranhas criaturas chamadas de Pocket Monsters, ou simplesmente Pokémon, toda criança que completar 10 anos de idade, pode se tornar um Treinador de Pokémons e sair à procura desses bichinhos, capturando-os, treinando-os e fazendo-os lutar para ganhar experiência.</h2>
+  
+ Atualmente 801 <b>Pokémons</b> foram registrado na Pokédex, A Pokédex, também conhecida como Poké-Agenda no Brasil (e ainda como Dexter ou Dextette, dependendo da voz masculina ou feminina do aparelho) é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas.
+ 
+ 
+  ###  - Pesquisa 01
     
   ### Quantidade máxima de Pokémons - Pesquisa 02
     
