@@ -26,7 +26,7 @@ Skills utilizadas:</br>
           
           df.head(3)
     
-  <p>Notamos que os três pokemons registrados na pokedex é a linha evolutiva do Bulbassaur o pokemon Inicial de planta encontrado na região de kanto Kanto</p>
+  <p>Notamos que os três pokemons registrados na pokedex é a linha evolutiva do Bulbassaur o pokemon Inicial de planta encontrado na região de Kanto:</p>
   
   
   ### Pesquisa 02 -  Quais são os 3 ultimos Pokémons registrados ?
