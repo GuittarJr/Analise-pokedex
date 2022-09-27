@@ -1,4 +1,7 @@
-# Analise-pokedex
+# Analise-pokedex</br>
+Esta é a educação aqui está uma pequena descrisão de como foi baseada a minha pesquisa, no repositório você encontra o arquivo csv que eu utilizei para pesquisa, e minha pesquisa.</br>
+
+
 Desafio de Projeto: Banco de dados utilizando a biblioteca Pandas.</br>
 Contato:</br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-dos-santos-900b84221/)
@@ -38,8 +41,21 @@ Skills utilizadas:</br>
   <p> Para isso foi utilizado</p>
         
           df.tail(3)
+          
+   <p> Encontramos os Pokémons lendário, Hoopa em suas duas formas e o Volcanion. Parecem bem fortes não ?</p>
+   
+   <img src="https://user-images.githubusercontent.com/19601448/192654240-fa5d0235-86da-4cfc-82e7-f438527764f3.png" alt="pokemons Lendarios"/>
+   
+   Você pode ter acesso detalhado na pesquisa disponível aqui no repositório.
+   
     
-  ### Quantos tem 2 tipagens - Pesquisa 03
+  ### Pesquisa 03 - Quais Pokémons fazem parte da primeira geração ?
+  
+  <p> Hoje contamos com mais de 500 Pokémons registrados na Pokedex porem foi iniciada com o registro de 151 Pokémons, você sabe quais Pokémons fazem parte da primeira geração?</br> </br> Para isso verifiquei a coluna que indica a geração qual o pokemon foi registrado "Generation" e pedi para que o python só me mostrasse Pokémons que tivesse a geração menor que 2. <p>
+                        
+             df.loc[df['Generation'] < 2]
+             
+   
     
   ### Quantidade de pokemons por Geração - Pesquisa 04 
     
