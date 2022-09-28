@@ -62,7 +62,7 @@ Skills utilizadas:</br>
   
  <p> A cada Geração são encontrados e armazenados vário dados sobre novos Pokémons que surgem, essa pesquisa foi feita para saber qual tipo entre Fogo, Planta e Agua tem como primeiro tipo maior quantidade de dados armazenados na Pokédex.<p>
  
- <img src="https://user-images.githubusercontent.com/19601448/192660286-bac909e4-cf40-47a5-9fad-0376134f34a6.png" width=200/>
+ <img src="https://user-images.githubusercontent.com/19601448/192661558-386ab2e3-4893-4c03-a863-19eb53eaf8b3.png"/>
  
  
  <p>Para isso, Criei uma variável e nela adicionei os dados da coluna "type 1" só as informações que eu queria.<p>
