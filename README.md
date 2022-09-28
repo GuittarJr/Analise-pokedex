@@ -65,7 +65,8 @@ Skills utilizadas:</br>
  <img src="
  
  <p>Para isso, Criei uma variável e nela adicionei os dados da coluna "type 1" só as informações que eu queria.<p>
-    variável = df[df['Type 1'] == "Tipo"]
+        
+        variável = df[df['Type 1'] == "Tipo"]
     
   ### Top 5 Pokémons com status mais alto(por status)- Pesquisa 05.
     
