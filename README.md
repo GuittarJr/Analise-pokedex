@@ -64,6 +64,7 @@ Skills utilizadas:</br>
  
  <img src="https://user-images.githubusercontent.com/19601448/192660286-bac909e4-cf40-47a5-9fad-0376134f34a6.png" width=200/>
  
+ 
  <p>Para isso, Criei uma variável e nela adicionei os dados da coluna "type 1" só as informações que eu queria.<p>
         
         variável = df[df['Type 1'] == "Tipo"]
