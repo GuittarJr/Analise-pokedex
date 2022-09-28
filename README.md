@@ -56,13 +56,13 @@ Skills utilizadas:</br>
              df.loc[df['Generation'] < 2]
              
    
-   <img src="https://user-images.githubusercontent.com/19601448/192658591-d3612a15-e694-42ad-903e-4adacc2ce4eb.jpg" alt="PokémonsKanto"/>
+   <img src="https://user-images.githubusercontent.com/19601448/192658591-d3612a15-e694-42ad-903e-4adacc2ce4eb.jpg" alt="PokémonsKanto" width=600/>
     
-  ### Pesquisa 04 -Quantidade de Pokémon por tipo: <b>FOGO</b>, <b>PLANTA<</b> E <b>AGUA</b>.
+  ### Pesquisa 04 -Quantidade de Pokémon por tipo: <b>FOGO</b>, <b>PLANTA</b> E <b>AGUA</b>.
   
  <p> A cada Geração são encontrados e armazenados vário dados sobre novos Pokémons que surgem, essa pesquisa foi feita para saber qual tipo entre Fogo, Planta e Agua tem como primeiro tipo maior quantidade de dados armazenados na Pokédex.<p>
  
- <img src="https://user-images.githubusercontent.com/19601448/192660286-bac909e4-cf40-47a5-9fad-0376134f34a6.png" alt="Simbolo Fogo"/>
+ <img src="https://user-images.githubusercontent.com/19601448/192660286-bac909e4-cf40-47a5-9fad-0376134f34a6.png" width=200/>
  
  <p>Para isso, Criei uma variável e nela adicionei os dados da coluna "type 1" só as informações que eu queria.<p>
         
