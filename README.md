@@ -56,8 +56,16 @@ Skills utilizadas:</br>
              df.loc[df['Generation'] < 2]
              
    
+   <img src="https://user-images.githubusercontent.com/19601448/192658591-d3612a15-e694-42ad-903e-4adacc2ce4eb.jpg" alt="PokémonsKanto"/>
     
-  ### Quantidade de pokemons por Geração - Pesquisa 04 
+  ### Pesquisa 04 -Quantidade de Pokémon por tipo: <b>FOGO</b>, <b>PLANTA<</b> E <b>AGUA</b>.
+  
+ <p> A cada Geração são encontrados e armazenados vário dados sobre novos Pokémons que surgem, essa pesquisa foi feita para saber qual tipo entre Fogo, Planta e Agua tem como primeiro tipo maior quantidade de dados armazenados na Pokédex.<p>
+ 
+ <img src="
+ 
+ <p>Para isso, Criei uma variável e nela adicionei os dados da coluna "type 1" só as informações que eu queria.<p>
+    variável = df[df['Type 1'] == "Tipo"]
     
   ### Top 5 Pokémons com status mais alto(por status)- Pesquisa 05.
     
