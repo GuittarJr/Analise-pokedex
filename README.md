@@ -20,7 +20,6 @@ Skills utilizadas:</br>
  
 <p>Nesse mundo habitado por estranhas criaturas chamadas de Pocket Monsters, ou simplesmente <strong>Pokémon</strong>, toda criança que completar 10 anos de idade, pode se tornar um Treinador de Pokémons e sair à procura desses bichinhos, capturando-os, treinando-os e fazendo-os lutar para ganhar experiência.</p>
   
- <p>
    
    
   ### Pesquisa 01 - Quais são os 3 Primeiros Pokémons registrados ?
@@ -65,9 +64,11 @@ Skills utilizadas:</br>
  <img src="https://user-images.githubusercontent.com/19601448/192661558-386ab2e3-4893-4c03-a863-19eb53eaf8b3.png"/>
  
  
- <p>Para isso, Criei uma variável e nela adicionei os dados da coluna "type 1" só as informações que eu queria.<p>
+ <p>Para isso, Criei uma variável e nela adicionei os dados da coluna "type 1" só as informações que eu queria e depois com a biblioteca matplotlib criei um gráfico do tipo bar para que me mostrasse com o len das variáveis criadadas um grafico mostrando a qual tinha mais quantidade. Nessa pesquisa Pokémons de Aquáticos lideraram as pesquisas comparado aos de Fogo e planta.<p>
         
         variável = df[df['Type 1'] == "Tipo"]
+        
+ <img src="https://user-images.githubusercontent.com/19601448/192662175-93cf89e8-43b2-4ac2-981a-081bf3f9535d.png" width= 300/>
     
   ### Top 5 Pokémons com status mais alto(por status)- Pesquisa 05.
     
